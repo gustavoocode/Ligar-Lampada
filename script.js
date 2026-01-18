@@ -8,5 +8,5 @@ btnlamapdaligada.addEventListener("click", function (){
 })
 
 btnlampadaDesligada.addEventListener("click", function (){
-    lampada.src = "imagens/lampada_apagada.png"
+    lampada.src = "imagens/Lampada_apagada.png"
 })
