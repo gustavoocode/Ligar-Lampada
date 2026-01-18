@@ -4,9 +4,9 @@ var btnlamapdaligada = document.getElementById("lampadaLigada");
 var lampada = document.getElementById("lampada")
 
 btnlamapdaligada.addEventListener("click", function (){
-    lampada.src = "imagens/Lampada_acesa.png"
+    lampada.src = "imagens/lampada_acesa.png"
 })
 
 btnlampadaDesligada.addEventListener("click", function (){
-    lampada.src = "imagens/Lampada_apagada.png"
+    lampada.src = "imagens/lampada_apagada.png"
 })
